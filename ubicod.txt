@@ -1,5 +1,8 @@
-test
+#include <stdio.h>
 
-i'm korean your korean
+int main(){
+	int a=10, b=20;
+	printf("tot : %d", a+b);
 
-what the
+	return 0;
+}
